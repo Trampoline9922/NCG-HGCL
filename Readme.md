@@ -46,8 +46,6 @@ NCG-HGCL/
 └── .gitattributes
 ```
 
-The exact structure should reflect the final uploaded implementation.
-
 ## Requirements
 
 The project uses Python and PyTorch for model training and evaluation.
